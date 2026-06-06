@@ -1,1 +1,8 @@
-console.log("Olá, mundo!")
+let quantidade_alunos = parseInt(prompt(quantidade de alunos na turma: ));
+
+let nota_av1 = [];
+let nota_av2 = [];
+let medias = [];
+
+let alunos_aprovados = 0;
+let alunos_reprovados = 0;
