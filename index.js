@@ -1,4 +1,4 @@
-let quantidade_alunos = parseInt(prompt(quantidade de alunos na turma: ));
+let quantidade_alunos = parseInt(prompt("Digite a quantidade de alunos na turma:"));
 
 let nota_av1 = [];
 let nota_av2 = [];
